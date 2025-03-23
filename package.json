@@ -1,0 +1,23 @@
+{
+  "name": "travel-planner",
+  "version": "1.0.0",
+  "description": "A travel planning application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohamed-gif13/Travel-Planner.git"
+  },
+  "keywords": [],
+  "author": "Mohamed Al Ibrahimi",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mohamed-gif13/Travel-Planner/issues"
+  },
+  "homepage": "https://github.com/Mohamed-gif13/Travel-Planner#readme",
+  "dependencies": {}
+}
